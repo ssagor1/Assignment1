@@ -1,0 +1,30 @@
+C:\csharp\cis297w2022\cis297w2022Assign1\cis297w2022Assign1\bin\Debug\cis297w2022Assign1.exe.config
+C:\csharp\cis297w2022\cis297w2022Assign1\cis297w2022Assign1\bin\Debug\cis297w2022Assign1.exe
+C:\csharp\cis297w2022\cis297w2022Assign1\cis297w2022Assign1\bin\Debug\cis297w2022Assign1.pdb
+C:\csharp\cis297w2022\cis297w2022Assign1\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.csproj.CoreCompileInputs.cache
+C:\csharp\cis297w2022\cis297w2022Assign1\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.exe
+C:\csharp\cis297w2022\cis297w2022Assign1\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.pdb
+C:\csharp\cis297w2022\cis297w2022Assign1\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.csprojAssemblyReference.cache
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.csproj.CoreCompileInputs.cache
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.exe
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.pdb
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\cis297w2022Assign1\cis297w2022Assign1.exe.config
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\cis297w2022Assign1\cis297w2022Assign1.xml
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\cis297w2022Assign1\cis297w2022Assign1.exe
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\cis297w2022Assign1\cis297w2022Assign1.pdb
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\bin\Debug\cis297w2022Assign1.exe.config
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\bin\Debug\cis297w2022Assign1.exe
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\bin\Debug\cis297w2022Assign1.pdb
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\bin\Debug\cis297w2022Assign1.xml
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.csprojAssemblyReference.cache
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.csproj.CoreCompileInputs.cache
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.exe
+C:\csharp\cis297w2022\cis297-w2022-assignment1-template\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.pdb
+C:\Users\shahr\Desktop\Class\Winter 2022\CIS 297_Intro to C#\assignment-1-cis-297-winter-2022-ssagor1-main\assignment-1-cis-297-winter-2022-ssagor1-main\cis297w2022Assign1\bin\Debug\cis297w2022Assign1.exe.config
+C:\Users\shahr\Desktop\Class\Winter 2022\CIS 297_Intro to C#\assignment-1-cis-297-winter-2022-ssagor1-main\assignment-1-cis-297-winter-2022-ssagor1-main\cis297w2022Assign1\bin\Debug\cis297w2022Assign1.exe
+C:\Users\shahr\Desktop\Class\Winter 2022\CIS 297_Intro to C#\assignment-1-cis-297-winter-2022-ssagor1-main\assignment-1-cis-297-winter-2022-ssagor1-main\cis297w2022Assign1\bin\Debug\cis297w2022Assign1.pdb
+C:\Users\shahr\Desktop\Class\Winter 2022\CIS 297_Intro to C#\assignment-1-cis-297-winter-2022-ssagor1-main\assignment-1-cis-297-winter-2022-ssagor1-main\cis297w2022Assign1\bin\Debug\cis297w2022Assign1.xml
+C:\Users\shahr\Desktop\Class\Winter 2022\CIS 297_Intro to C#\assignment-1-cis-297-winter-2022-ssagor1-main\assignment-1-cis-297-winter-2022-ssagor1-main\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.csproj.AssemblyReference.cache
+C:\Users\shahr\Desktop\Class\Winter 2022\CIS 297_Intro to C#\assignment-1-cis-297-winter-2022-ssagor1-main\assignment-1-cis-297-winter-2022-ssagor1-main\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.csproj.CoreCompileInputs.cache
+C:\Users\shahr\Desktop\Class\Winter 2022\CIS 297_Intro to C#\assignment-1-cis-297-winter-2022-ssagor1-main\assignment-1-cis-297-winter-2022-ssagor1-main\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.exe
+C:\Users\shahr\Desktop\Class\Winter 2022\CIS 297_Intro to C#\assignment-1-cis-297-winter-2022-ssagor1-main\assignment-1-cis-297-winter-2022-ssagor1-main\cis297w2022Assign1\obj\Debug\cis297w2022Assign1.pdb

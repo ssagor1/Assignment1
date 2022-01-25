@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>cis297w2022Assign1</name>
+    </assembly>
+    <members>
+        <member name="T:cis297w2022Assign1.Program">
+            <summary>
+            This program implements some arithmetic functions as a calculator
+            </summary>
+            <Student> Shahriar Sagor </Student>
+            <Class>CIS297</Class>
+            <Semester> Winter 2022 </Semester>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:cis297w2022Assign1.Program.CaptureInput" -->
+        <member name="M:cis297w2022Assign1.Program.RemoveWhitespace">
+            <summary>
+            This method	returns a string without the Whitespaces
+            </summary>
+        </member>
+        <member name="M:cis297w2022Assign1.Program.ReverseString">
+            <summary>
+            This method reverse a string
+            </summary>
+        </member>
+        <member name="M:cis297w2022Assign1.Program.QuotientRemainder">
+            <summary>
+            This method display the quotient and the remainder
+            </summary>
+        </member>
+        <member name="M:cis297w2022Assign1.Program.Logarithm">
+            <summary>
+            This method is to find the logarithm of a specified number to base 10
+            </summary>
+        </member>
+        <member name="M:cis297w2022Assign1.Program.LogarithmSB">
+            <summary>
+            This method is to find the logarithm of a specified number to a specified base
+            </summary>
+        </member>
+        <member name="M:cis297w2022Assign1.Program.MinMax">
+            <summary>
+            This method display the minimum and maximum of the two numbers
+            </summary>
+        </member>
+        <member name="M:cis297w2022Assign1.Program.sPower">
+             <summary>
+            This method is to find the specified number to the specified power
+             </summary>
+        </member>
+        <member name="M:cis297w2022Assign1.Program.QuadraticRoot">
+            <summary>
+            This method is to find the roots of a quadratic equation
+            </summary>
+        </member>
+        <member name="M:cis297w2022Assign1.Program.DisplayResult(System.String)">
+            <summary>
+            This method displays the result as a modified string
+            </summary>
+            <param name="message">The <see cref="T:System.String"/> message to display.</param>
+        </member>
+        <member name="M:cis297w2022Assign1.Program.SquareRoot">
+            <summary>
+            Sqrt-Square Root. This function returns the square root of the given number.
+            </summary>
+        </member>
+    </members>
+</doc>
