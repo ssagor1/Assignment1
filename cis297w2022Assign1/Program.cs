@@ -23,6 +23,10 @@ namespace cis297w2022Assign1
 
             }
         }
+
+        /// <summary>
+        /// MainMenu will display and allow user to choose an option from the lists. Based on the option user choose the program will execute.
+        /// </summary>
         private static bool MainMenu()
         {
             Console.Clear();
@@ -95,11 +99,6 @@ namespace cis297w2022Assign1
             return Console.ReadLine();
         }
 
-
-
-
-
-
         /// <summary>
         /// This method	returns a string without the Whitespaces
         /// </summary>
@@ -146,11 +145,7 @@ namespace cis297w2022Assign1
 
             Console.Write("\r\nPress Enter to return to Main Menu");
             Console.ReadLine();
-
-
         }
-
-
 
         /// <summary>
         /// This method is to find the logarithm of a specified number to base 10
@@ -278,10 +273,6 @@ namespace cis297w2022Assign1
             Console.Write("\r\nPress Enter to return to Main Menu");
             Console.ReadLine();
         }
-
-
-
-
 
         /// <summary>
         /// This method displays the result as a modified string
